@@ -2,9 +2,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <div align="center">
   <a href="https://github.com/rsaz/error-handling-typescript/blob/main/media/error-handling.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="media/error-handling.png" alt="Logo">
   </a>
 
   <h3 align="center">Error Handling in Typescript</h3>
