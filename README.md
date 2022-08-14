@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/rsaz/error-handling-typescript/blob/main/media/error-handling.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
