@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/rsaz/error-handling-typescript.git",
-  "author": "Richard Zampieri <rc_scott48@hotmail.com>",
+  "author": "Richard Zampieri <br.developer@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "tsnd -r tsconfig-paths/register src/StartUp.ts"
